@@ -1,5 +1,5 @@
 package ecommerce.entrega;
 
-public class Entrega {
+public class EntregaRapida {
 
 }

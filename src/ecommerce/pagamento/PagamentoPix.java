@@ -1,5 +1,5 @@
 package ecommerce.pagamento;
 
-public class FormaPagamento {
+public class PagamentoPix {
 
 }
